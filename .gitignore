@@ -1,0 +1,6 @@
+Library/
+bin/
+obj/
+ProjectSettings/
+packages.config
+packages/
