@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c9f67a1f67bece848bb0bc39b3806bfb
+timeCreated: 1493285432
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nescafe Sans
+  fontNames:
+  - Nescafe Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 349e253091a2af7428cf469e7e26ba1e, type: 3}
+  - {fileID: 12800000, guid: 1b18ff95986c58540a253b55eb278919, type: 3}
+  - {fileID: 12800000, guid: b8148927f7a38c1409c6d261a01bc2b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
